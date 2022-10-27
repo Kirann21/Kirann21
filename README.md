@@ -9,3 +9,6 @@ Some facts about me:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kiranmishra21/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love momos <3
+
+💡 :bulb: Hacktoberfest 2022 
+[![@kiranmishra21's Holopin board](https://holopin.me/kiranmishra21)](https://holopin.io/@kiranmishra21)
