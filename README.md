@@ -1,7 +1,7 @@
 ## Hi everyone, thanks for visiting my profile!!
 
 Some facts about me:
-- 🔭 I’m currently working on @hack4bengal
+- 🔭 I’m currently working at @hack4bengal
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Hackathons
 - 🤔 I’m looking for help with Web Development
